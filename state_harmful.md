@@ -1064,7 +1064,7 @@ On the other hand, if it was the Trusted Stick that performed the encryption,
 then there should be no way for the hypothetical ME rootkit to write anything
 onto the user partition bypassing the forced encryption with the user key.
 
-## Temper-resistance considerations
+## Tamper-resistance considerations
 
 The use of tamper-resistance technology is often thought as a beneficial means
 to improve physical security of an endpoint device. Care must be applied
